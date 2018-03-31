@@ -1,0 +1,8 @@
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\bin\Debug\netcoreapp1.0\MarshallsRevenue.deps.json
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\bin\Debug\netcoreapp1.0\MarshallsRevenue.runtimeconfig.json
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\bin\Debug\netcoreapp1.0\MarshallsRevenue.runtimeconfig.dev.json
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\obj\Debug\netcoreapp1.0\MarshallsRevenue.AssemblyInfo.cs
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\bin\Debug\netcoreapp1.0\MarshallsRevenue.dll
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\bin\Debug\netcoreapp1.0\MarshallsRevenue.pdb
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\obj\Debug\netcoreapp1.0\MarshallsRevenue.dll
+F:\CaseProblems\CaseProbelms7\MarshallsRevenue\MarshallsRevenue\obj\Debug\netcoreapp1.0\MarshallsRevenue.pdb
